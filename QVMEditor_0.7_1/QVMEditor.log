@@ -1,0 +1,35 @@
+[2026-05-26 - 21:27:25] .ctor(): QVM Editor Started.
+[2026-05-26 - 21:27:25] .ctor(): Output path loaded: C:\Users\Parsa\AppData\Roaming\QEditor\QCompiler\Decompile\output\
+[2026-05-26 - 21:27:25] QVMEditorForm_Load(): Entering method: QVMEditorForm_Load()
+[2026-05-26 - 21:27:25] QVMEditorForm_Load(): QVMEditorForm_Load param sender = QVM_Editor.QVMEditorForm, Text: Project I.G.I - QVM Editor
+[2026-05-26 - 21:27:25] QVMEditorForm_Load(): QVMEditorForm_Load param e = System.EventArgs
+[2026-05-26 - 21:27:25] InitTextSelectionColors(): Entering method: InitTextSelectionColors()
+[2026-05-26 - 21:27:25] InitTextSelectionColors(): InitTextSelectionColors param darkMode = False
+[2026-05-26 - 21:27:25] InitTextSelectionColors(): Exiting method: InitTextSelectionColors()
+[2026-05-26 - 21:27:25] InitSyntaxColoring(): Entering method: InitSyntaxColoring()
+[2026-05-26 - 21:27:25] AutomaticThemeStyle(): Entering method: AutomaticThemeStyle()
+[2026-05-26 - 21:27:25] DarkThemeStyle(): Entering method: DarkThemeStyle()
+[2026-05-26 - 21:27:25] DarkThemeStyle(): DarkThemeStyle param fontName = Consolas
+[2026-05-26 - 21:27:25] DarkThemeStyle(): DarkThemeStyle param fontSize = 12
+[2026-05-26 - 21:27:25] DarkThemeStyle(): Exiting method: DarkThemeStyle()
+[2026-05-26 - 21:27:25] InitTextSelectionColors(): Entering method: InitTextSelectionColors()
+[2026-05-26 - 21:27:25] InitTextSelectionColors(): InitTextSelectionColors param darkMode = True
+[2026-05-26 - 21:27:25] InitTextSelectionColors(): Exiting method: InitTextSelectionColors()
+[2026-05-26 - 21:27:25] AutomaticThemeStyle(): Exiting method: AutomaticThemeStyle()
+[2026-05-26 - 21:27:25] QVMEditorForm_Load(): Exiting method: InitSyntaxColoring()
+[2026-05-26 - 21:27:25] InitNumberMargin(): Entering method: InitNumberMargin()
+[2026-05-26 - 21:27:25] InitNumberMargin(): Exiting method: InitNumberMargin()
+[2026-05-26 - 21:27:25] InitBookmarkMargin(): Entering method: InitBookmarkMargin()
+[2026-05-26 - 21:27:25] InitBookmarkMargin(): Exiting method: InitBookmarkMargin()
+[2026-05-26 - 21:27:25] InitCodeFolding(): Entering method: InitCodeFolding()
+[2026-05-26 - 21:27:25] InitCodeFolding(): Exiting method: InitCodeFolding()
+[2026-05-26 - 21:27:25] InitCodeFolding(): Exiting method: InitCodeFolding()
+[2026-05-26 - 21:27:25] InitCodeFolding(): Exiting method: InitCodeFolding()
+[2026-05-26 - 21:27:25] InitCodeFolding(): Exiting method: InitCodeFolding()
+[2026-05-26 - 21:27:25] InitCodeFolding(): Exiting method: InitCodeFolding()
+[2026-05-26 - 21:27:25] InitCodeFolding(): Exiting method: InitCodeFolding()
+[2026-05-26 - 21:27:25] InitCodeFolding(): Exiting method: InitCodeFolding()
+[2026-05-26 - 21:27:25] InitDragDropFile(): Entering method: InitDragDropFile()
+[2026-05-26 - 21:27:25] InitHotkeys(): Entering method: InitHotkeys()
+[2026-05-26 - 21:27:25] QVMEditorForm_Load(): Exiting method: InitHotkeys()
+[2026-05-26 - 21:27:26] OnLoad(): Exiting method: QVMEditorForm_Load()
